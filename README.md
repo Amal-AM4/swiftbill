@@ -2,7 +2,7 @@
 
 SwiftBill is a modern, easy-to-use application for creating and managing professional quotations, invoices, receipts, and bills. It's built with Next.js and Tailwind CSS, runs entirely on your local machine, and uses a local SQLite database to store your data, ensuring your information stays private.
 
-![SwiftBill Screenshot](https://placehold.co/800x600.png?text=SwiftBill+App+Screenshot)
+<img src="./screenshot/Screenshot 2025-08-06 173804.png" alt="SwiftBill Screenshot" />
 
 ## Features
 
@@ -36,7 +36,7 @@ You need to have [Node.js](https://nodejs.org/) (version 18 or higher) and `npm`
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/swiftbill.git
+    https://github.com/Amal-AM4/swiftbill.git
     cd swiftbill
     ```
 
