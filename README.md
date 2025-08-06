@@ -2,7 +2,7 @@
 
 SwiftBill is a modern, easy-to-use application for creating and managing professional quotations, invoices, receipts, and bills. It's built with Next.js and Tailwind CSS, runs entirely on your local machine, and uses a local SQLite database to store your data, ensuring your information stays private.
 
-<img src="./screenshot/Screenshot 2025-08-06 173804.png" alt="SwiftBill Screenshot" style="border-radius: 10px" />
+<img src="./screenshot/Screenshot 2025-08-06 173804.png" alt="SwiftBill Screenshot" />
 
 ## Features
 
